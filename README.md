@@ -1,4 +1,5 @@
- #Sobre mimo
+ #Sobre mim
+ 
   meu email de contato é edilaine.freitas@escola.pr.gov.br
 - 👋 Olá meu nome é @freitasedilaine
 - 👀 eu estou interessada em aprender nivas linguagens 
